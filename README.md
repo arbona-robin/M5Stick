@@ -30,5 +30,5 @@ La documentation M5Unified, ainsi que celle de l'écran [https://docs.m5stack.co
 
 ### Vidéo stream sur l'écran
 
-[./video_stream/README.md](./video_stream/README.md)
+[Vidéo stream](./video_stream/README.md)
 
